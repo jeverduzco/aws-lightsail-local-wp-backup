@@ -10,7 +10,7 @@ This script is used to automate local WordPress backups on an AWS Lightsail inst
    ```sh
    sudo touch backup.sh && sudo chmod u+x backup.sh && sudo chmod 744 backup.sh
    ```
-3. Edit the file and copy and paste the content of this script
+3. Edit the file and: copy and paste the script you need
    ```sh
    sudo nano backup.sh
    ```
